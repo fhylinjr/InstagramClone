@@ -2,6 +2,45 @@
 
 **Instagram Lite** is a photo sharing app similar to Instagram but using Parse as its backend.
 
+## Instagram Lite (Clone) Part 2
+Time spent: **7** hours spent in total
+
+### User Stories
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
+
+The following **optional** features are implemented:
+
+- [x] User sees app icon in home screen and styled bottom navigation view
+
+The following **additional** features are implemented:
+
+- [ ] n/A
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+### Notes
+
+When adding posts to backend (database) beware of the userid. A wrong character can crash program or prevent app from running.
+
+## Open-source libraries used
+- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+---
+
+## Instagram Lite (Clone) Part 2
 Time spent: **8** hours spent in total
 
 ## User Stories
