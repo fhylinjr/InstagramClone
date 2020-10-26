@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough' />
+<img src='https://github.com/fhylinjr/InstagramClone/blob/master/Instagram%20Clone%20WalkThrough2.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,6 +38,7 @@ When adding posts to backend (database) beware of the userid. A wrong character 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+- [Parse](https://github.parse-community.Parse-SDK-Android) - For communicating with backend database and query posts rather than using instagram's API
 ---
 
 ## Instagram Lite (Clone) Part 2
@@ -55,8 +56,6 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] User sees app icon in home screen and styled bottom navigation view
-- [ ] Style the feed to look like the real Instagram feed.
-- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
 The following **additional** features are implemented:
 
